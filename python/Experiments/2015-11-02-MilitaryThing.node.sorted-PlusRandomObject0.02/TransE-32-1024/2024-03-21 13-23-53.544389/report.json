@@ -1,0 +1,10 @@
+{
+    "num_train_triples": 60600,
+    "num_entities": 14342,
+    "num_relations": 650,
+    "runtime_kg_loading": 0.5463976860046387,
+    "EstimatedSizeMB": 0.45751953125,
+    "NumParam": 479744,
+    "path_experiment_folder": "ABSOLUTE_PATHExperiments/2015-11-02-MilitaryThing.node.sorted-PlusRandomObject0.02/TransE-32-1024/2024-03-21 13-23-53.544389",
+    "Runtime": 903.9684157371521
+}

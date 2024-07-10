@@ -1,0 +1,57 @@
+Total blank nodesA 2827
+Total blank nodesB 2827
+Total bbnodesA 1452
+Total bbnodesB 1353
+Total triplesA 30000
+Total triplesB 30300
+Total btriplesA 30000
+Total btriplesB 30241
+Total bbtriplesA 2749
+Total bbtriplesB 2800
+Max radius A 2
+Max radius B 2
+---------------
+PerfectMapping
+URIDiffs: 0
+Delta: 300
+---
+NoMapping
+URIDiffs: 2827
+Delta: 60300
+---
+SIGNATURE
+URIDiffs: 1534
+Delta: 5778
+---
+SIGN-R2
+URIDiffs: 368
+Delta: 3358
+---
+SIGN-R3
+URIDiffs: 368
+Delta: 3358
+---
+SIGN-R1000
+URIDiffs: 369
+Delta: 3356
+---
+mapping-TransE-epochs-0016-dim-032.txt
+URIDiffs: 1429
+Delta: 3572
+---
+mapping-TransE-epochs-0032-dim-032.txt
+URIDiffs: 542
+Delta: 2036
+---
+mapping-TransE-epochs-0064-dim-032.txt
+URIDiffs: 83
+Delta: 1084
+---
+mapping-TransE-epochs-0128-dim-032.txt
+URIDiffs: 69
+Delta: 1142
+---
+mapping-TransE-epochs-0256-dim-032.txt
+URIDiffs: 59
+Delta: 1116
+---

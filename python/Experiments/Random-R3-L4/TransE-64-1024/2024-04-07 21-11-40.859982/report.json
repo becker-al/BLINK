@@ -1,0 +1,10 @@
+{
+    "num_train_triples": 672,
+    "num_entities": 106,
+    "num_relations": 321,
+    "runtime_kg_loading": 0.009389400482177734,
+    "EstimatedSizeMB": 0.013031005859375,
+    "NumParam": 13664,
+    "path_experiment_folder": "ABSOLUTE_PATHExperiments/Random-R3-L4/TransE-64-1024/2024-04-07 21-11-40.859982",
+    "Runtime": 358.23035073280334
+}

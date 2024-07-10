@@ -1,0 +1,6 @@
+Total blank nodesA 2827
+Total blank nodesB 2827
+Total bbnodesA 1452
+Total bbnodesB 1452
+Total triplesA 30000
+Total triplesB 27000

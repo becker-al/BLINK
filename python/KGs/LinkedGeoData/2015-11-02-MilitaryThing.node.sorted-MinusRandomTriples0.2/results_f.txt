@@ -1,0 +1,30 @@
+Total blank nodesA 2827
+Total blank nodesB 2827
+Total bbnodesA 1452
+Total bbnodesB 1452
+Total triplesA 30000
+Total triplesB 24000
+Total btriplesA 30000
+Total btriplesB 24000
+Total bbtriplesA 2749
+Total bbtriplesB 2473
+Max radius A 2
+Max radius B 2
+---------------
+PerfectMapping
+URIDiffs: 0
+Delta: 6000
+---
+NoMapping
+URIDiffs: 2827
+Delta: 54000
+---
+MYMAPPING
+URIDiffs: 0
+Delta: 6000
+---
+OnlyUniquePropsIterative
+URIDiffs: 54
+Delta: 6828
+---
+SIGNATURE
